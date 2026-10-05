@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Edge runtime generated state and logs
+edge_state.json
+edge_state.json.tmp
+predictions_log.csv
